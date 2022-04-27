@@ -5,7 +5,7 @@ Lagrangian particle tracking and biological model based on SCHISM
 
 • Other color.m; colorData.mat: Colormap files downloaded from https://www.mathworks.com/matlabcentral/fileexchange/30564-othercolor
 
-• sentinel*.tif: satellite images covering the tracking period from 07/28/2020-08/06/2020; downloaded from NOAA Algal Bloom Beta/Experimental Products (https://coastwatch.noaa.gov/cw_html/NCCOS.html)
+• /sentinel/: satellite images covering the tracking period from 07/28/2020-08/06/2020; downloaded from NOAA Algal Bloom Beta/Experimental Products (https://coastwatch.noaa.gov/cw_html/NCCOS.html)
 
 • hgrid.gr3: horizontal grid for schism input
 • bnd_node.txt: node ID for model boundary
