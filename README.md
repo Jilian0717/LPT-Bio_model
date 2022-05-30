@@ -3,7 +3,7 @@ Lagrangian particle tracking and biological (LPT-Bio) model developed based on S
 
 • plot_Chla.m: main matlab code to plot Chl-a from particle tracking results and compare it with satellite-derived Chl-a
 
-• exmaple .m file: https://doi.org/10.5281/zenodo.6499558
+• exmaple .mat file: https://doi.org/10.5281/zenodo.6499558
 
 #### Other plot-related files:
 • othercolor.m, colorData.mat: colormap files downloaded from https://www.mathworks.com/matlabcentral/fileexchange/30564-othercolor
