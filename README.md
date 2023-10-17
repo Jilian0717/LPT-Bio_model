@@ -16,4 +16,4 @@ Lagrangian particle tracking and biological (LPT-Bio) model developed based on S
 
 • /sentinel/: qualified satellite images covering the tracking period from 07/28/2020-08/06/2020; downloaded from NOAA Algal Bloom Beta/Experimental Products (https://coastwatch.noaa.gov/cw_html/NCCOS.html)
 
-Corresponding to Jilian Xiong: jxiong@vims.edu; xiongjilian@gmail.com
+Corresponding to Jilian Xiong: xiongjilian@gmail.com
