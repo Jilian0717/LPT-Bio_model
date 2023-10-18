@@ -10,4 +10,4 @@ The general idea for this particle-tracking model is to treat a numerical partic
 
 ### input files:
 - particle.bp: specify particle release time, release location, etc
-- DIN_2020.txt & TSS_2020.txt: interpolated DIN and TSS to each grid node from Cheaspeake Bay Program observations since the hydrodynamic model I used didn't include the biogeochemical module; the start time is 2020.01.01; outside the bay mouth, the DIN value is the averaged value from CB7.4N, CB7.4, and CB8.1E; DIN and TSS were vertically averaged in the present version, can be revised with vertical variation in the future.
+- DIN_2020.txt & TSS_2020.txt: (a small example of a whole year data) interpolated DIN and TSS to each grid node from Cheaspeake Bay Program observations since the hydrodynamic model I used didn't include the biogeochemical module; the start time is 2020.01.01; outside the bay mouth, the DIN value is the averaged value from CB7.4N, CB7.4, and CB8.1E; DIN and TSS were vertically averaged in the present version, can be revised with vertical variation in the future.
