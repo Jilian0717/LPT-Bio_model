@@ -1,5 +1,6 @@
 ### LPT-Bio_model
-Lagrangian particle tracking and biological (LPT-Bio) model developed based on [SCHISM](https://github.com/schism-dev/schism)
+Lagrangian particle tracking and biological (LPT-Bio) model developed based on [SCHISM](https://github.com/schism-dev/schism). It is an offline particle tracking model, meaning we run the hydrodynamics first and then use the saved hydrodynamics to drive the transport of each particle. Based on the passive and neutrally buoyant particle tracking module in SCHISM, we added a diel vertical migration and a changing cell density to each particle. The particle tracking code was compiled in the modeling system of SCHISM and was run on the hpc of William & Mary.
+
 
 `/test_case/`
 
