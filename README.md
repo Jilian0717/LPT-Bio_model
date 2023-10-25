@@ -1,5 +1,17 @@
 ### LPT-Bio_model
-Lagrangian particle tracking and biological (LPT-Bio) model developed based on SCHISM (https://github.com/schism-dev/schism)
+Lagrangian particle tracking and biological (LPT-Bio) model developed based on [SCHISM](https://github.com/schism-dev/schism)
+
+`/test_case/`
+
+Include the revised particle tracking code (**ptrack3_bio.f90**) with algal bloom dynamics and diel vertical migrations, the example particle initialization file (particle.bp), and DIN, TSS files
+
+`/sentinel_image/`
+
+satellite data downloaded from NOAA Algal Bloom Beta/Experimental [Products](https://coastwatch.noaa.gov/cw_html/NCCOS.html)
+
+`/post_processing/`
+
+generate the maps of chl-a concentrations based on particle tracking in Xiong et al 2023. 
 
 References:
 
