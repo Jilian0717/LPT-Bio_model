@@ -6,12 +6,13 @@
 ##### Other plot-related files:
 • othercolor.m, colorData.mat: colormap files downloaded from https://www.mathworks.com/matlabcentral/fileexchange/30564-othercolor
 
-• hgrid.gr3: horizontal grid 
+• hgrid.gr3: horizontal grid file
 
-• bnd_node.txt: node ID of model boundary
+• bnd_node.txt: node ID of Chesapeake Bay model boundary
 
 • bayall*: Chesapeake Bay shoreline file
 
-• /sentinel/: qualified satellite images covering the tracking period from 07/28/2020-08/06/2020; downloaded from NOAA Algal Bloom Beta/Experimental Products (https://coastwatch.noaa.gov/cw_html/NCCOS.html)
 
-Corresponding to Jilian Xiong: xiongjilian@gmail.com
+
+
+
